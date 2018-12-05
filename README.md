@@ -1,4 +1,4 @@
 # TechTipsAndTricks
 Tips, Tricks &amp; Notes Regarding
 
-_This is Bold_
+__This is Bold__
