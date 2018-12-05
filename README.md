@@ -5,4 +5,4 @@ Tips, Tricks &amp; Notes Regarding
 
 __This is Bold__
 
-This is paragraph >Pardon My Friend
+>Pardon My Friend
